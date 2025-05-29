@@ -1,4 +1,5 @@
-# Adventure App – Major Project
+- 📹 [Demo Video (Google Drive)](https://drive.google.com/file/d/1IH9yfjtYoCjMe91NSt5gBQO5qeVIcElS/view?usp=drive_link)
+- # Adventure App – Major Project
 
 This Adventure App is a major B.Tech IT project built to manage and enhance outdoor adventure activities. It allows users to register for events, share live location, and send SOS alerts in case of emergencies.
 

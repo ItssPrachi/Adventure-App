@@ -1,0 +1,23 @@
+{
+    "events": {
+      "event1": {
+        "title": "Mountain Trekking",
+        "location": "Himalayas",
+        "date": "2025-03-15",
+        "image": "https://wittypen.com/blog/wp-content/uploads/2017/08/Trekking-the-himalayas.webp"
+      },
+      "event2": {
+        "title": "Beach Camping",
+        "location": "Goa",
+        "date": "2025-04-10",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq_LxPV53mBoU7LdN4EjXpsHRty2fc_GVrVcriy5Y9sPe8fpAqfA1l8bqJV25R5PLsMv5v4S17hTvZjgvmHsaAcDdAVxa0pZLCNPJD1cspw0ooX60DqRqL0JYi0tWKg0kHc4QSv_LHiDHk/s1600/IMG_6980.JPG"
+      },
+      "event3": {
+        "title": "Forest Safari",
+        "location": "Jim Corbett",
+        "date": "2025-05-05",
+        "image": "https://rishikeshdaytour.com/blog/wp-content/uploads/2020/12/JUNGLE-SAFARI-IN-CORBETT-NATIONAL-PARK.jpg"
+      }
+    }
+  }
+  
